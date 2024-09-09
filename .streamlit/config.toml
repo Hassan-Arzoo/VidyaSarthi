@@ -1,0 +1,9 @@
+# Configuration for Streamlit apps
+
+[theme]
+base="light"
+primaryColor="#d33682"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f0f0f0"
+textColor="#262730"
+font="sans serif"
